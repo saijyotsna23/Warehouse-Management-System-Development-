@@ -1,0 +1,7 @@
+.login-center-items{
+    height: 70vh;
+    align-content: center;
+    text-align: center;
+    display: grid;
+    place-items: center;
+}
